@@ -1,0 +1,5 @@
+select,
+button,
+input {
+  box-sizing: border-box;
+}
